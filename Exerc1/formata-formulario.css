@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+	font-family: "Roboto";
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	border-bottom: 1px solid #888;
+	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.4);
+	margin: 0;
+	margin-bottom: 40px;
+}
+
+fieldset {
+	width: 60%;
+	margin: 20px auto;
+	background-color: rgba(200,200,200, 0.5);
+}
+
+label.alinha {
+	
+	width: 300px;
+	display: inline-block;
+	text-align: right;
+	margin-bottom: 7px;
+}
+
+button {
+	font-family: "Roboto";
+	width: 400px;
+	font-size: 18px;
+	font-weight: bold;
+	height: 30px;
+	display: block;
+	margin: auto;
+	margin-top: 10px;
+
+
+
+}
+
+input[name="aluno"] {
+	width: 250px;
+	font-family: "Roboto 27px";
+	
+}
+
+input[type="number"] {
+	font-family: "Roboto 27px";
+}
+ 
